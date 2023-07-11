@@ -29,3 +29,7 @@
 | 1     | <strong> Nguyễn Huỳnh Bảo Quốc </strong>  | 20520292   | Nhóm trưởng | 21522786@gm.uit.edu.vn |            
 | 2     |<strong> Đinh Vũ Minh Nhật   | 21522414   | Thành viên  | 21522414@gm.uit.edu.vn | 
 | 3     | <strong>Đào Nam Thuận         | 21522649   | Thành viên  | 21522649@gm.uit.edu.vn | 
+
+## CHỦ ĐỀ BÁO CÁO
+* **Tên chủ đề:**  Dự đoán tên hãng xe hơi thông qua ảnh logo
+* **Nội dung chi tiết:** Xử lý dữ liệu và sử dụng các mô hình SVM, VGG-16, VGG19 để nhận diện tên hãng thông qua ảnh logo đầu vào.
